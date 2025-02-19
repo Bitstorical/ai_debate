@@ -43,6 +43,9 @@ python debate.py
 5. **Quit Anytime**: Type `quit` to end the session.
 
 ## 🏆 Example Debate Session
+
+![grafik](https://github.com/user-attachments/assets/4d9b9525-ceff-4c44-916f-d658086815d9)
+
 ```
 🔥 Debate on: "Should AI replace human artists?" 🔥
 
