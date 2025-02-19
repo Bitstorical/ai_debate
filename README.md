@@ -30,7 +30,7 @@ ollama pull mistral
 Clone the repository and run the script:
 
 ```bash
-git clone <your-repo-link>
+git clone git clone https://github.com/Bitstorical/ai_debate
 cd ai-debate-simulator
 python debate.py
 ```
