@@ -45,6 +45,7 @@ python debate.py
 ## 🏆 Example Debate Session
 ```
 🔥 Debate on: "Should AI replace human artists?" 🔥
+
 Pro (Llama): "AI enhances creativity by automating tedious tasks."
 Con (Mistral): "Creativity is inherently human and irreplaceable."
 
