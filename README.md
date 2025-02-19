@@ -4,7 +4,7 @@
 Welcome to the **AI Debate Simulator**, where two powerful LLMs—**Llama3.2** and **Mistral**—go head-to-head in a structured debate while you moderate the discussion! The models exchange arguments based on a given topic, adopting unique **personalities** and facing fun **challenges** for an engaging and unpredictable debate. 
 
 ## 🎯 Features
-- **Choose Your AI Debaters**: Select which model takes the **Pro** or **Contra** side (L for Llama, M for Mistral).
+- **Choose Your AI Debaters**: Select which model takes the **Pro** or **Con** side (L for Llama, M for Mistral).
 - **Live Argument Exchange**: Each AI responds to the opponent's last argument, ensuring a continuous discussion.
 - **Personalities & Challenges**: Add spice with roles like **'a sarcastic comedian'** or constraints like **'use only historical facts'**.
 - **Threaded Execution**: Both models run independently in **separate threads via Ollama**, ensuring smooth operation.
@@ -37,7 +37,7 @@ python debate.py
 
 ## 🎮 How to Play
 1. **Choose a Debate Topic**: Enter a topic, and the AI will start arguing!
-2. **Select Pro & Contra Models**: Type `L` for Llama, `M` for Mistral.
+2. **Select Pro & Con Models**: Type `L` for Llama, `M` for Mistral.
 3. **Watch the Debate Unfold**: Each AI exchanges arguments based on the opponent’s last point.
 4. **Spice It Up**: Introduce **personalities** or **challenges** for unexpected twists.
 5. **Quit Anytime**: Type `quit` to end the session.
@@ -46,9 +46,10 @@ python debate.py
 ```
 🔥 Debate on: "Should AI replace human artists?" 🔥
 Pro (Llama): "AI enhances creativity by automating tedious tasks."
-Contra (Mistral): "Creativity is inherently human and irreplaceable."
+Con (Mistral): "Creativity is inherently human and irreplaceable."
+
 Pro (Llama): "AI can generate unique, never-before-seen artworks."
-Contra (Mistral): "But it lacks emotion and true artistic intent."
+Con (Mistral): "But it lacks emotion and true artistic intent."
 ...
 ```
 
