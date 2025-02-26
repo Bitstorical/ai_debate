@@ -9,7 +9,7 @@ Welcome to the **AI Debate Simulator**, where two powerful LLMs—**Llama3.2** a
 - **Personalities & Challenges**: Add spice with roles like **'a sarcastic comedian'** or constraints like **'use only historical facts'**.
 - **Threaded Execution**: Both models run independently in **separate threads via Ollama**, ensuring smooth operation.
 - **Simple Terminal Interface**: Type a topic and moderate the debate round-by-round!
-- **Added Microsoft Edge’s online text-to-speech service for argument speech synthesis.**:
+- **Microsoft Edge’s online text-to-speech service for argument speech synthesis.**:
 
 ## 🛠️ Installation & Setup
 ### 1️⃣ Install Ollama
