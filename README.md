@@ -50,10 +50,10 @@ python ai_debate.py
 ```
 🔥 Debate on: "Should AI replace human artists?" 🔥
 
-Pro (Llama): "AI enhances creativity by automating tedious tasks."
+Pro (Llama3.2): "AI enhances creativity by automating tedious tasks."
 Con (Mistral): "Creativity is inherently human and irreplaceable."
 
-Pro (Llama): "AI can generate unique, never-before-seen artworks."
+Pro (Llama3.2): "AI can generate unique, never-before-seen artworks."
 Con (Mistral): "But it lacks emotion and true artistic intent."
 ...
 ```
