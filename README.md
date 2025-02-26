@@ -23,7 +23,7 @@ curl -fsSL https://ollama.ai/install.sh | sh
 Download **Llama3.2** and **Mistral** via Ollama:
 
 ```bash
-ollama pull llama3
+ollama pull llama3.2
 ollama pull mistral
 ```
 
