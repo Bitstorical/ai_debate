@@ -33,7 +33,7 @@ Clone the repository and run the script:
 ```bash
 git clone git clone https://github.com/Bitstorical/ai_debate
 cd ai-debate-simulator
-python debate.py
+python ai_debate.py
 ```
 
 ## 🎮 How to Play
